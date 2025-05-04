@@ -1,0 +1,8 @@
+.amount {
+    display: flex;
+}
+
+label {
+    font-size: small;
+    color: grey;
+}
